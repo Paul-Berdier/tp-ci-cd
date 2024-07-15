@@ -2,6 +2,8 @@
 
 Ce projet configure un pipeline CI/CD pour une application Python avec GitHub Actions et Docker.
 
+Lien vers le dépôt GitHub : https://github.com/Paul-Berdier/tp-ci-cd
+
 1. **Initialisation du dépôt Git** : Création et initialisation du dépôt.
 2. **Clé SSH pour GitHub** : Génération et ajout de la clé SSH à GitHub.
 3. **Création des fichiers** :
